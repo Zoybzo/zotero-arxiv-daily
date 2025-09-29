@@ -132,3 +132,6 @@ Distributed under the AGPLv3 License. See `LICENSE` for detail.
 - [arxiv](https://github.com/lukasschwab/arxiv.py)
 - [sentence_transformers](https://github.com/UKPLab/sentence-transformers)
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
+
+# Update for usable
+- 1
